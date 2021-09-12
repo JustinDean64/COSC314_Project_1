@@ -1,2 +1,29 @@
 # COSC314_Project_1
-[readme.txt](https://github.com/JustinDean64/COSC314_Project_1/files/7150474/readme.txt)
+I really don't know my way around github and I'm sure that the formatting of this repository looks really disorganized, so sorry about that.
+Anyways, here's the output for the code in the main.java file:
+
+True
+False
+False
+False
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+True
+True
+True
+False
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+False
+True
+True
+False
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+True
+False
+True
+True
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+True
+False
+False
+True
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
